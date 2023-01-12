@@ -7,35 +7,41 @@
   font-family: 'Poppins', sans-serif;
 }
 
-header {
+body {
+  background-color: #e5e5e5;
+}
+
+.header {
   display: flex;
   width: 100%;
   height: 100vh;
   padding: 0 200px;
+  border-radius: 0 0 0 150px;
+  background-color: #fff;
 }
 
-header nav {
+.header nav {
   display: flex;
   justify-content: space-between;
   padding: 20px 150px 50px 150px;
 }
 
-header nav .logo a {
+.header nav .logo a {
   font-weight: 700;
   font-size: 18px;
   line-height: 20px;
   color: #6070ff;
 }
 
-header .toggle-button {
+.header .toggle-button {
   display: none;
 }
 
-header nav #hamburger-menu {
+.header nav #hamburger-menu {
   display: flex;
 }
 
-header nav #hamburger-menu li a {
+.header nav #hamburger-menu li a {
   display: block;
   padding: 0 1rem;
   padding-right: 0;
@@ -45,18 +51,18 @@ header nav #hamburger-menu li a {
   color: #344563;
 }
 
-header .head-body-container {
+.header .head-body-container {
   background-image: url(image/Header-bg.png);
   background-repeat: no-repeat;
   background-size: 100%;
   padding: 0 100px;
 }
 
-header .head-body {
+.header .head-body {
   padding: 500px 150px 380px 150px;
 }
 
-header .head-body h2 {
+.header .head-body h1 {
   font-weight: 700;
   font-size: 48px;
   line-height: 60px;
@@ -64,7 +70,7 @@ header .head-body h2 {
   margin-bottom: 20px;
 }
 
-header .head-body p {
+.header .head-body p {
   font-weight: 400;
   font-size: 20px;
   line-height: 28px;
@@ -72,7 +78,7 @@ header .head-body p {
   margin-bottom: 20px;
 }
 
-header .head-body h3 {
+.header .head-body h3 {
   font-weight: 500;
   font-size: 16px;
   line-height: 24px;
@@ -80,53 +86,53 @@ header .head-body h3 {
   margin-bottom: 20px;
 }
 
-header .head-body ul {
+.header .head-body ul {
   display: flex;
 }
 
-header .head-body ul li {
+.header .head-body ul li {
   margin-right: 30px;
 }
 
-@media (max-width: 500px) {
-  header {
+@media (max-width: 765px) {
+  .header {
     width: 100%;
     height: 100vh;
     padding: 50px 20px;
   }
 
-  header nav {
+  .header nav {
     width: 375px;
     padding: 0 0 20px 0;
   }
 
-  header .head-body {
+  .header .head-body {
     padding: 120px 0;
   }
 
-  header .toggle-button {
+  .header .toggle-button {
     display: flex;
   }
 
-  header nav #hamburger-menu {
+  .header nav #hamburger-menu {
     display: none;
   }
 
-  header .head-body-container {
+  .header .head-body-container {
     background-image: url(image/header-shapes-mobile.png);
     background-repeat: no-repeat;
     background-size: 100%;
     padding: 0;
   }
 
-  header .head-body h2 {
+  .header .head-body h1 {
     font-weight: 700;
     font-size: 40px;
     line-height: 52px;
     color: #172b4d;
   }
 
-  header .head-body p {
+  .header .head-body p {
     font-weight: 400;
     font-size: 16px;
     line-height: 24px;
