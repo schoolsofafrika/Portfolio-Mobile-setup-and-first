@@ -53,27 +53,6 @@ HTML5 and css3 which the latest versions were used in this project.
 
 
 
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-
-# 📖 [your_project_name] <a name="about-project">Portfolio: Setup and Mobile First</a>
-
-
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-
-
-# 📖 [your_project_name] <a name="about-project">Portfolio: Setup and Mobile First</a>
-
-
-
-# 📖 [your_project_name] <a name="about-project">Portfolio: Setup and Mobile First</a>
-
-
 - [Live Demo Link]()
 
 **[Portfolio: Setup and Mobile First]** is a Moblie Portfolio
