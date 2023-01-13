@@ -1,9 +1,6 @@
 <a name="My Portfolio">MY PORTFOLIO</a>
-
 <a name="My Portfolio"></a>
-
 <a name="My Portfolio"></a>
->>>>>>> main
 <div align="center">
   <br/>
   <h3><b>My_Portfolio</b></h3>
