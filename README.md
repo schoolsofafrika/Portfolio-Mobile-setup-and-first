@@ -1,4 +1,6 @@
+
 <a name="My Portfolio">MY PORTFOLIO</a>
+<a name="My Portfolio"></a>
 <div align="center">
   <br/>
   <h3><b>My_Portfolio</b></h3>
@@ -27,6 +29,11 @@
 - [❓ FAQ](#faq)
 - [📝 License](#license)
 
+- [Live Demo Link]()
+
+
+# 📖 [My_Portfolio] <a name="My Portfolio">My Portfolio</a>
+
 
 This is a My Portfolio  project.
 My_Portfolio is a mobile and desktop responsive page.
@@ -42,6 +49,8 @@ HTML5 and css3 which the latest versions were used in this project.
 ### Key Features <a name="key-features"></a>
 
 - **[key_feature_1]** My Portfolio built with HTML and CSS
+- **[key_feature_2]** Responsive mobile design portfolio
+
 
 
 <!-- LIVE DEMO -->
@@ -59,6 +68,11 @@ HTML5 and css3 which the latest versions were used in this project.
 
 
 # 📖 [your_project_name] <a name="about-project">Portfolio: Setup and Mobile First</a>
+
+
+
+# 📖 [your_project_name] <a name="about-project">Portfolio: Setup and Mobile First</a>
+
 
 - [Live Demo Link]()
 
@@ -113,6 +127,7 @@ HTML5 and css3 which the latest versions were used in this project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -121,6 +136,21 @@ HTML5 and css3 which the latest versions were used in this project.
  Clone this project to your local machine. 
 
 > Describe how a new developer could make use of your project.
+
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+
+ Get your pc.
+ Clone this project to your local machine. 
+
+
+ Get your pc.
+ Clone this project to your local machine. 
+
+> Describe how a new developer could make use of your project.
+
 
 To get a local copy up and running, follow these steps.
 
@@ -140,13 +170,22 @@ Example command:
 ```
  -->
 
+
 ### Setup
 
 Clone this repository to your desired folder:
 
+
 https://github.com/schoolsofafrika/Portfolio-Setup-and-Mobile-first
 
 https://github.com/schoolsofafrika/Portfolio-Setup-and-Mobile-first
+
+https://github.com/schoolsofafrika/Portfolio-Setup-and-Mobile-first
+
+
+
+https://github.com/schoolsofafrika/Portfolio-Setup-and-Mobile-first
+
 
 https://github.com/schoolsofafrika/Portfolio-Setup-and-Mobile-first
 
@@ -160,10 +199,18 @@ Example commands:
 ```
 --->
 
+
 ### Install
 
 Install this project with:
+
 cd to My Portfolio.
+
+
+cd to My Portfolio.
+
+cd to My Portfolio.
+
 
 <!--
 Example command:
@@ -175,6 +222,8 @@ Example command:
 --->
 
 ### Usage
+
+
 To run the project, execute the following command:
 
 <!--
@@ -185,10 +234,19 @@ Example command:
 ```
 --->
 
+
 ### Run tests
 
 To run tests, run the following command:
+
 npm test
+
+
+npm test
+
+
+npm test
+
 
 <!--
 Example command:
@@ -201,11 +259,13 @@ Example command:
 ### Deployment
 
 You can deploy this project using:
+
 github pages.
 
 <!-- AUTHORS -->
 
 ## 👥 Author(s) <a name="authors"></a>
+
 <!--
 Example:
 
@@ -220,6 +280,7 @@ Example:
 
 ## 👥 Authors <a name="authors"></a>
 
+
 > Mention all of the collaborators of this project.
 
 👤 **Author1**
@@ -229,6 +290,7 @@ Example:
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/okonkwo-echezona-4b92181b0/)
 
 👤 **Author2**
+
 - GitHub [] ()
 
 
@@ -258,9 +320,11 @@ Example:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
 <!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
+
 
 Contributions, issues, and feature requests are welcome!
 
@@ -271,7 +335,14 @@ Feel free to check the [issues page](https://github.com/schoolsofafrika/Portfoli
 ## ⭐️ Show your support <a name="support"></a>
 
 
+
 If you like this project give a ⭐️.
+
+If you like this project please give a ⭐️.
+
+If you like this project give a ⭐️.
+
+
 
 <!-- ACKNOWLEDGEMENTS -->
 
@@ -290,6 +361,7 @@ I would like to thank God Almighty and Microverse for the opportunity and motiva
 
 ## 🤝 Contributing
 
+
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](../../issues/).
@@ -298,6 +370,7 @@ Feel free to check the [issues page](../../issues/).
 
 <!-- SUPPORT -->
 
+
 ## ⭐️ Show your support <a name="support"></a>
 
 > Write a message to encourage readers to support your project
@@ -305,6 +378,17 @@ Feel free to check the [issues page](../../issues/).
 If you like this project...
 
 This project is [MIT](./MIT.md) licensed.
+
+
+## ⭐️ Show your support <a name="support"></a>
+
+> Write a message to encourage readers to support your project
+
+
+If you like this project...
+
+This project is [MIT](./MIT.md) licensed.
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -338,6 +422,9 @@ I would like to thank...
 
 ## 📝 License <a name="license"></a>
 
+
+
+This project is [MIT](./MIT.md) licensed.
 
 This project is [MIT](./MIT.md) licensed.
 
