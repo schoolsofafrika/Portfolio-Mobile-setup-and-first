@@ -496,6 +496,8 @@ body {
   padding: 10px 10px;
   border-radius: 5px;
   border: none;
+  transition: all 1s;
+  color: #4053fc;
 }
 
 .contact-container form button:hover {
@@ -665,6 +667,10 @@ body {
 .contact-container form .btn {
   display: flex;
   justify-content: center;
+}
+
+.contact-container form .btn button:hover {
+  color: #fff;
 }
 
 @media (max-width: 500px) {
