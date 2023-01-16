@@ -1,3 +1,5 @@
+
+<a name="My Portfolio">MY PORTFOLIO</a>
 <a name="My Portfolio"></a>
 <div align="center">
   <br/>
@@ -26,13 +28,12 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [❓ FAQ](#faq)
 - [📝 License](#license)
->>>>>>> 8a14ac857ed70e6403b16e5955d3d2d494b256af
 
 - [Live Demo Link]()
 
-<<<<<<< HEAD
-=======
+
 # 📖 [My_Portfolio] <a name="My Portfolio">My Portfolio</a>
+
 
 This is a My Portfolio  project.
 My_Portfolio is a mobile and desktop responsive page.
@@ -51,14 +52,6 @@ HTML5 and css3 which the latest versions were used in this project.
 - **[key_feature_2]** Responsive mobile design portfolio
 
 
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-=======
-
-
-# 📖 [your_project_name] <a name="about-project">Portfolio: Setup and Mobile First</a>
->>>>>>> 11c546f24c74da1094babed67126a8537a6eb7b9
 
 - [Live Demo Link]()
 
@@ -113,23 +106,30 @@ HTML5 and css3 which the latest versions were used in this project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
->>>>>>> 11c546f24c74da1094babed67126a8537a6eb7b9
->>>>>>> 8a14ac857ed70e6403b16e5955d3d2d494b256af
+
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
+. 
+ Get your pc.
+ Clone this project to your local machine. 
+
+> Describe how a new developer could make use of your project.
+
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-<<<<<<< HEAD
+
  Get your pc.
  Clone this project to your local machine. 
-=======
-<<<<<<< HEAD
+
+
  Get your pc.
  Clone this project to your local machine. 
-=======
+
 > Describe how a new developer could make use of your project.
->>>>>>> 11c546f24c74da1094babed67126a8537a6eb7b9
->>>>>>> 8a14ac857ed70e6403b16e5955d3d2d494b256af
+
 
 To get a local copy up and running, follow these steps.
 
@@ -138,8 +138,6 @@ Basic knownledge of computer.
 
 In order to run this project you need:
 live server.
-<<<<<<< HEAD
-=======
 
 In order to run this project you need:
 
@@ -150,17 +148,26 @@ Example command:
  gem install rails
 ```
  -->
->>>>>>> 8a14ac857ed70e6403b16e5955d3d2d494b256af
+
 
 ### Setup
 
 Clone this repository to your desired folder:
-<<<<<<< HEAD
+
+
 https://github.com/schoolsofafrika/Portfolio-Setup-and-Mobile-first
-=======
-<<<<<<< HEAD
+
 https://github.com/schoolsofafrika/Portfolio-Setup-and-Mobile-first
-=======
+
+https://github.com/schoolsofafrika/Portfolio-Setup-and-Mobile-first
+
+
+
+https://github.com/schoolsofafrika/Portfolio-Setup-and-Mobile-first
+
+
+https://github.com/schoolsofafrika/Portfolio-Setup-and-Mobile-first
+
 
 <!--
 Example commands:
@@ -170,18 +177,19 @@ Example commands:
   git clone git@github.com:myaccount/my-project.git
 ```
 --->
->>>>>>> 11c546f24c74da1094babed67126a8537a6eb7b9
->>>>>>> 8a14ac857ed70e6403b16e5955d3d2d494b256af
+
 
 ### Install
 
 Install this project with:
-<<<<<<< HEAD
+
 cd to My Portfolio.
-=======
-<<<<<<< HEAD
+
+
 cd to My Portfolio.
-=======
+
+cd to My Portfolio.
+
 
 <!--
 Example command:
@@ -193,7 +201,7 @@ Example command:
 --->
 
 ### Usage
->>>>>>> 11c546f24c74da1094babed67126a8537a6eb7b9
+
 
 To run the project, execute the following command:
 
@@ -204,17 +212,20 @@ Example command:
   rails server
 ```
 --->
->>>>>>> 8a14ac857ed70e6403b16e5955d3d2d494b256af
+
 
 ### Run tests
 
 To run tests, run the following command:
-<<<<<<< HEAD
+
 npm test
-=======
-<<<<<<< HEAD
+
+
 npm test
-=======
+
+
+npm test
+
 
 <!--
 Example command:
@@ -223,24 +234,16 @@ Example command:
   bin/rails test test/models/article_test.rb
 ```
 --->
->>>>>>> 11c546f24c74da1094babed67126a8537a6eb7b9
->>>>>>> 8a14ac857ed70e6403b16e5955d3d2d494b256af
 
 ### Deployment
 
 You can deploy this project using:
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 8a14ac857ed70e6403b16e5955d3d2d494b256af
+
 github pages.
 
 <!-- AUTHORS -->
 
 ## 👥 Author(s) <a name="authors"></a>
-<<<<<<< HEAD
-=======
-=======
 
 <!--
 Example:
@@ -255,8 +258,7 @@ Example:
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
->>>>>>> 11c546f24c74da1094babed67126a8537a6eb7b9
->>>>>>> 8a14ac857ed70e6403b16e5955d3d2d494b256af
+
 
 > Mention all of the collaborators of this project.
 
@@ -268,10 +270,6 @@ Example:
 
 👤 **Author2**
 
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 8a14ac857ed70e6403b16e5955d3d2d494b256af
 - GitHub [] ()
 
 
@@ -282,9 +280,7 @@ Example:
 - **[future_feature_3]** Contact section.
 - **[future_feature_4]** Desktop version design.
 - **[future_feature_5]** Refactoring the work section dynamically with Javascript.
-<<<<<<< HEAD
-=======
-=======
+
 - GitHub: [@githubhandle]()
 - Twitter: [@twitterhandle]()
 - LinkedIn: [LinkedIn]()
@@ -302,16 +298,12 @@ Example:
 - [ ] **[new_feature_3]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
->>>>>>> 11c546f24c74da1094babed67126a8537a6eb7b9
->>>>>>> 8a14ac857ed70e6403b16e5955d3d2d494b256af
+
 
 <!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 8a14ac857ed70e6403b16e5955d3d2d494b256af
+
 
 Contributions, issues, and feature requests are welcome!
 
@@ -321,11 +313,14 @@ Feel free to check the [issues page](https://github.com/schoolsofafrika/Portfoli
 
 ## ⭐️ Show your support <a name="support"></a>
 
-<<<<<<< HEAD
-If you like this project please give a ⭐️.
-=======
+
+
 If you like this project give a ⭐️.
->>>>>>> 8a14ac857ed70e6403b16e5955d3d2d494b256af
+
+If you like this project please give a ⭐️.
+
+If you like this project give a ⭐️.
+
 
 
 <!-- ACKNOWLEDGEMENTS -->
@@ -344,8 +339,7 @@ I would like to thank God Almighty and Microverse for the opportunity and motiva
 
 
 ## 🤝 Contributing
-=======
->>>>>>> 11c546f24c74da1094babed67126a8537a6eb7b9
+
 
 Contributions, issues, and feature requests are welcome!
 
@@ -355,21 +349,26 @@ Feel free to check the [issues page](../../issues/).
 
 <!-- SUPPORT -->
 
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
+
 ## ⭐️ Show your support <a name="support"></a>
 
 > Write a message to encourage readers to support your project
->>>>>>> 11c546f24c74da1094babed67126a8537a6eb7b9
->>>>>>> 8a14ac857ed70e6403b16e5955d3d2d494b256af
 
 If you like this project...
 
-<<<<<<< HEAD
 This project is [MIT](./MIT.md) licensed.
-=======
+
+
+## ⭐️ Show your support <a name="support"></a>
+
+> Write a message to encourage readers to support your project
+
+
+If you like this project...
+
+This project is [MIT](./MIT.md) licensed.
+
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGEMENTS -->
@@ -402,13 +401,15 @@ I would like to thank...
 
 ## 📝 License <a name="license"></a>
 
-<<<<<<< HEAD
+
+
 This project is [MIT](./MIT.md) licensed.
-=======
+
+This project is [MIT](./MIT.md) licensed.
+
 This project is [MIT](./LICENSE) licensed.
 
 _NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
->>>>>>> 11c546f24c74da1094babed67126a8537a6eb7b9
->>>>>>> 8a14ac857ed70e6403b16e5955d3d2d494b256af
+
