@@ -38,8 +38,7 @@ body {
 }
 
 .about-container .box1 ul li {
-  margin-right: 20px;
-  margin-bottom: 20px;
+  margin: 0 20px 20px 0;
 }
 
 .about-container .box2 .about-list > li {
@@ -484,6 +483,14 @@ body {
   transition: all 1s;
 }
 
+.contact-container form .btn button {
+  padding: 10px;
+  border-radius: 8px;
+  border: 1px solid #6070ff;
+  color: #7f8cff;
+  transition: all 1s;
+}
+
 .about-container .box1 button:hover {
   background-color: #4053fc;
   color: #fff;
@@ -684,7 +691,7 @@ body {
 }
 
 .contact-container form .btn button:hover {
-  color: #fff;
+  transform: scale(1.1);
 }
 
 @media (max-width: 768px) {
