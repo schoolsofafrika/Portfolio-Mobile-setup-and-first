@@ -84,6 +84,45 @@ body {
   margin-right: 30px;
 }
 
+.about-container .box1 ul li {
+  margin: 0 20px 20px 0;
+}
+
+.about-container .box2 .about-list > li {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 40px;
+}
+
+.about-container .box2 .about-list li {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  color: #344563;
+}
+
+.about-container .box2 .icon-list li {
+  width: 122px;
+  height: 120px;
+  padding-top: 20px;
+  padding-left: 10px;
+  background: #f7f7f9;
+  border-radius: 8px;
+  margin-right: 10px;
+}
+
+#head ul li {
+  padding-right: 20px;
+}
+
+#head #hamburger-menu li {
+  padding: 0;
+}
+
+#head #hamburger-menu li:nth-child(1) {
+  margin-right: 30px;
+}
+
 #head #hamburger-menu li:nth-child(2) {
   margin-right: 30px;
 }
@@ -499,6 +538,11 @@ body {
   font-weight: 700;
   font-size: 40px;
   line-height: 52px;
+
+.about-container .box1 h2 {
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 52px;
   color: #091e42;
   margin-bottom: 20px;
 }
@@ -516,6 +560,7 @@ body {
   border-radius: 8px;
   border: 1px solid #6070ff;
   color: #6070ff;
+  color: #7f8cff;
   transition: all 1s;
 }
 
@@ -641,6 +686,47 @@ body {
 
   .about-container .box2 .icon-list li {
     display: flex;
+  }
+
+  .about-container .box1 button:hover {
+    background-color: #4053fc;
+    color: #fff;
+  }
+
+  .about-container .box2 {
+    width: 100%;
+    margin-top: 50px;
+  }
+
+  .about-container .box2 .about-list {
+    width: 100%;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    color: #344563;
+  }
+
+  .about-container .box2 .about-list > li {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+  }
+
+  .about-container .box2 .about-list .list {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 40px;
+    border-bottom: 1px solid #dfe1e6;
+  }
+
+  .about-container .box2 .icon-list {
+    display: inline-block;
+    margin-bottom: 30px;
+    width: 100%;
+  }
+
+  .about-container .box2 .icon-list li {
+    display: flex;
     background: #f7f7f9;
     border-radius: 8px;
     margin-bottom: 10px;
@@ -657,7 +743,7 @@ body {
 }
 
 /* This is the contact me area */
-#contact {
+.contact {
   background-color: #fff;
 }
 
@@ -709,6 +795,11 @@ body {
   #contact {
     background-color: #fff;
     width: 375px;
+    width: 375px;
+  }
+
+  .contact-container {
+    background-image: url(image/contact-form-shapes.png);
   }
 
   #contact .contact-case {
