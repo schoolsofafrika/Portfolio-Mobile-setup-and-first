@@ -37,6 +37,14 @@ body {
   display: flex;
 }
 
+.card-content ul li {
+  margin-right: 10px;
+}
+
+.contact-container form ul li {
+  margin-bottom: 20px;
+}
+
 .about-container .box1 ul li {
   margin: 0 20px 20px 0;
 }
@@ -134,6 +142,16 @@ body {
   line-height: 24px;
   color: #344563;
   margin-bottom: 30px;
+}
+
+.contact-container p {
+  width: 469px;
+  text-align: center;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 28px;
+  color: #ebebff;
+  margin-bottom: 20px;
 }
 
 .about-container .box1 p {
@@ -467,6 +485,16 @@ body {
   padding-right: 50px;
 }
 
+.contact-container h2 {
+  display: flex;
+  justify-content: center;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 52px;
+  color: #fff;
+  margin-bottom: 20px;
+}
+
 .about-container .box1 h2 {
   font-weight: 700;
   font-size: 40px;
@@ -484,10 +512,10 @@ body {
 }
 
 .contact-container form .btn button {
-  padding: 10px;
+  padding: 10px 15px;
   border-radius: 8px;
   border: 1px solid #6070ff;
-  color: #7f8cff;
+  color: #6070ff;
   transition: all 1s;
 }
 
@@ -629,60 +657,43 @@ body {
 }
 
 /* This is the contact me area */
-.contact {
+#contact {
   background-color: #fff;
 }
 
-.contact-container {
-  padding-top: 100px;
-  padding-bottom: 100px;
+#contact .contact-case {
   background-color: #6070ff;
-  border-radius: 100px 0 0 0;
+  padding: 70px 100px;
+  border-radius: 150px 0 0 0;
+}
+
+.contact-image {
+  display: flex;
+  justify-content: center;
   background-image: url(image/contact-form-background-shapes.png);
+  background-color: #6070ff;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 80px 0;
 }
 
-.contact-container .contact-me {
-  display: flex;
-  justify-content: center;
-  margin-bottom: 20px;
-}
-
-.contact-container .contact-me h2 {
-  font-weight: 700;
-  font-size: 40px;
-  line-height: 52px;
-  color: #fff;
-}
-
-.contact-container .para {
-  display: flex;
-  justify-content: center;
-  font-weight: 400;
-  font-size: 20px;
-  line-height: 28px;
-  color: #ebebff;
-  margin-bottom: 20px;
-}
-
-.contact-container form div {
+.contact-container form {
   display: flex;
   justify-content: center;
 }
 
-.contact-container form div li input {
-  padding: 10px;
+.contact-container form input {
   width: 447px;
-  border-radius: 2px;
-  margin-bottom: 20px;
-  border: none;
+  padding: 15px 15px;
+  border-radius: 6px;
+  border: 1px solid #6070ff;
 }
 
-.contact-container form div li textarea {
-  padding: 10px;
+.contact-container form textarea {
   width: 447px;
-  border: none;
-  margin-bottom: 20px;
-  border-radius: 2px;
+  padding: 15px 15px;
+  border-radius: 6px;
+  border: 1px solid #6070ff;
 }
 
 .contact-container form .btn {
@@ -691,58 +702,88 @@ body {
 }
 
 .contact-container form .btn button:hover {
-  transform: scale(1.1);
+  transform: scale(1.2);
 }
 
 @media (max-width: 768px) {
   #contact {
+    background-color: #fff;
     width: 375px;
   }
 
-  .contact-container {
+  #contact .contact-case {
+    background-color: #6070ff;
+    padding: 0 0;
+  }
+
+  .contact-image {
+    display: flex;
+    justify-content: center;
     background-image: url(image/contact-form-shapes.png);
+    background-color: #6070ff;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 150px 0;
+    border-radius: 100px 0 0 0;
   }
 
-  .contact-me div {
+  .contact-container h2 {
     display: flex;
     justify-content: center;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 52px;
+    color: #fff;
+    margin-bottom: 20px;
   }
 
-  .contact-container .contact-me {
-    display: flex;
-    justify-content: center;
-  }
-
-  .contact-container .para {
-    display: flex;
-    justify-content: center;
-  }
-
-  .contact-container .para p {
+  .contact-container p {
     width: 327px;
     text-align: center;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    color: #ebebff;
+    margin-bottom: 20px;
   }
 
-  .contact-container form div li {
+  .contact-container form {
     display: flex;
     justify-content: center;
   }
 
-  .contact-container form div li input {
-    width: 327px;
+  .contact-container form ul li {
+    margin-bottom: 20px;
   }
 
-  .contact-container form div li textarea {
+  .contact-container form input {
     width: 327px;
+    padding: 15px 15px;
+    border-radius: 8px;
+    border: 1px solid #6070ff;
+  }
+
+  .contact-container form textarea {
+    width: 327px;
+    padding: 15px 15px;
+    border-radius: 8px;
+    border: 1px solid #6070ff;
   }
 
   .contact-container form .btn {
     display: flex;
-    justify-content: center;
+    justify-content: start;
   }
 
-  .contact-container form .btn div {
-    width: 327px;
-    display: inline;
+  .contact-container form .btn button {
+    padding: 10px 15px;
+    border-radius: 8px;
+    border: 1px solid #6070ff;
+    color: #6070ff;
+    transition: all 1s;
+  }
+
+  .contact-container form .btn button:hover {
+    transform: scale(1.2);
   }
 }
