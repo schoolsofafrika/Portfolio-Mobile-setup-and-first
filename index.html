@@ -59,10 +59,10 @@
                   <li>2015</li>
               </ul>
               <p>A daily selection of privately personalized reads; no accounts or sign-ups required.</p>
-              <ul>
+              <ul class="menu">
                   <li><a href="">html</a></li>
                   <li><a href="">css</a></li>
-                  <li><a href="">javaScript</a></li>
+                  <li><a href="">javaScript</a></li><br>
               </ul>
               <button type="button">See Project</button>
             </div>
@@ -196,7 +196,40 @@
 
 
       <!-- This is the contact form area -->
-      <div id="contact" class="contact">
+  <div id="contact">
+    <div class="contact-case">
+    <div class="contact-image">
+        <div class="contact-container">
+        <h2>Contact me</h2>
+        <p>If you have an application you are interested in developing, a feature that you need built or a project that needs coding. I’d love to help with it</p>
+        <form action="https://formspree.io/f/xyyvleev" method="post">
+          <div>
+              <ul>
+                  <li>
+                      <label for="name"></label>
+                      <input type="text" id="name" name="user-name" placeholder="Name" required maxlength="30">
+                  </li>
+                  <li>
+                      <label for="mail"></label>
+                      <input type="email" id="mail" name="user-mail" placeholder="name@gmail.com" required>
+                  </li>
+                  <li>
+                      <label for="msg"></label>
+                      <textarea name="msg" id="mail" name="user-message" cols="30" rows="8" placeholder="Write your message here" required maxlength="500"></textarea>
+                  </li>
+              </ul>
+          
+              <div class="btn">
+                  <button type="submit">Get in Touch</button>
+              </div>
+          </div>
+        </form>
+      </div>
+    </div>
+    </div>
+  </div>
+
+      <!-- <div id="contact" class="contact">
         <div class="contact-container">
           <div class="contact-me">
             <div>
@@ -229,6 +262,6 @@
           </form>
         </div>
       </div>
-    </div>
+    </div> -->
 </body>
 </html>
