@@ -11,10 +11,6 @@ body {
   background-color: #e5e5e5;
 }
 
-#head {
-  height: 100vh;
-}
-
 #head nav {
   display: flex;
   justify-content: center;
@@ -115,7 +111,7 @@ body {
 #head .background-image {
   display: flex;
   justify-content: center;
-  padding: 350px 0 500px 0;
+  padding: 350px 0 400px 0;
   background-image: url(image/Header-bg.png);
   background-repeat: no-repeat;
   background-size: 100%;

@@ -110,11 +110,6 @@ HTML5 and css3 which the latest versions were used in this project.
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-
- Get your pc.
- Clone this project to your local machine. 
-
-
  Get your pc.
  Clone this project to your local machine. 
 
@@ -128,8 +123,6 @@ Basic knownledge of computer.
 
 In order to run this project you need:
 live server.
-
-In order to run this project you need:
 
 <!--
 Example command:
