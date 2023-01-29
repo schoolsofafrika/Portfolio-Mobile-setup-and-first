@@ -174,7 +174,7 @@ body {
 }
 
 .card-content ul {
-  display: flex;
+  /* display: flex; */
   margin-bottom: 20px;
 }
 
@@ -319,6 +319,14 @@ body {
   color: #091e42;
   margin-bottom: 15px;
   margin-top: 30px;
+}
+
+.card-content ul li {
+  margin-right: 10px;
+}
+
+.card-content .menu li {
+  float: left;
 }
 
 .card-content ul .canopy {
