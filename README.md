@@ -98,7 +98,7 @@ HTML5 and css3 which the latest versions were used in this project.
 
 > Add a link to your deployed project.
 
-- [Live Demo Link]()
+- [Live Demo Link](https://schoolsofafrika.github.io/Portfolio-Mobile-setup-and-first/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
