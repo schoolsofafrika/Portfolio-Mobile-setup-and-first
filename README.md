@@ -52,9 +52,6 @@ HTML5 and css3 which the latest versions were used in this project.
 - **[key_feature_2]** Responsive mobile design portfolio
 
 
-
-- [Live Demo Link]()
-
 **[Portfolio: Setup and Mobile First]** is a Moblie Portfolio
 
 ## 🛠 Built With <a name="built-with">Html and css</a>
