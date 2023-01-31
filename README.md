@@ -52,9 +52,6 @@ HTML5 and css3 which the latest versions were used in this project.
 - **[key_feature_2]** Responsive mobile design portfolio
 
 
-
-- [Live Demo Link]()
-
 **[Portfolio: Setup and Mobile First]** is a Moblie Portfolio
 
 ## 🛠 Built With <a name="built-with">Html and css</a>
@@ -94,7 +91,6 @@ HTML5 and css3 which the latest versions were used in this project.
 - **[key_feature_2]**
 - **[key_feature_3]**
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
 
@@ -102,7 +98,7 @@ HTML5 and css3 which the latest versions were used in this project.
 
 > Add a link to your deployed project.
 
-- [Live Demo Link]()
+- [Live Demo Link](https://schoolsofafrika.github.io/Portfolio-Mobile-setup-and-first/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -110,20 +106,6 @@ HTML5 and css3 which the latest versions were used in this project.
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
-. 
- Get your pc.
- Clone this project to your local machine. 
-
-> Describe how a new developer could make use of your project.
-
-<!-- GETTING STARTED -->
-
-## 💻 Getting Started <a name="getting-started"></a>
-
-
- Get your pc.
- Clone this project to your local machine. 
-
 
  Get your pc.
  Clone this project to your local machine. 
@@ -139,8 +121,6 @@ Basic knownledge of computer.
 In order to run this project you need:
 live server.
 
-In order to run this project you need:
-
 <!--
 Example command:
 
@@ -153,17 +133,6 @@ Example command:
 ### Setup
 
 Clone this repository to your desired folder:
-
-
-https://github.com/schoolsofafrika/Portfolio-Setup-and-Mobile-first
-
-https://github.com/schoolsofafrika/Portfolio-Setup-and-Mobile-first
-
-https://github.com/schoolsofafrika/Portfolio-Setup-and-Mobile-first
-
-
-
-https://github.com/schoolsofafrika/Portfolio-Setup-and-Mobile-first
 
 
 https://github.com/schoolsofafrika/Portfolio-Setup-and-Mobile-first
@@ -182,11 +151,6 @@ Example commands:
 ### Install
 
 Install this project with:
-
-cd to My Portfolio.
-
-
-cd to My Portfolio.
 
 cd to My Portfolio.
 
@@ -217,12 +181,6 @@ Example command:
 ### Run tests
 
 To run tests, run the following command:
-
-npm test
-
-
-npm test
-
 
 npm test
 
@@ -317,10 +275,6 @@ Feel free to check the [issues page](https://github.com/schoolsofafrika/Portfoli
 
 If you like this project give a ⭐️.
 
-If you like this project please give a ⭐️.
-
-If you like this project give a ⭐️.
-
 
 
 <!-- ACKNOWLEDGEMENTS -->
@@ -348,15 +302,6 @@ Feel free to check the [issues page](../../issues/).
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- SUPPORT -->
-
-
-## ⭐️ Show your support <a name="support"></a>
-
-> Write a message to encourage readers to support your project
-
-If you like this project...
-
-This project is [MIT](./MIT.md) licensed.
 
 
 ## ⭐️ Show your support <a name="support"></a>
@@ -405,11 +350,8 @@ I would like to thank...
 
 This project is [MIT](./MIT.md) licensed.
 
-This project is [MIT](./MIT.md) licensed.
-
-This project is [MIT](./LICENSE) licensed.
 
 _NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
