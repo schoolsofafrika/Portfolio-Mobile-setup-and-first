@@ -4,7 +4,7 @@ const navbarLink = document.querySelector('.navbar-link');
 const head = document.querySelector("#head");
 function navSlide() {
   navbarLink.classList.toggle('active');
-  head.style.filter = 'blur(7px)';
+  head.style.filter = 'blur(4px)';
 }
 function close() {
   navbarLink.classList.remove('active');
