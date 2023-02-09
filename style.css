@@ -247,6 +247,7 @@ body {
   }
 
   .navbar-link li {
+    padding-top: 50px;
     padding-top: 30px;
     top: 70px;
   }
