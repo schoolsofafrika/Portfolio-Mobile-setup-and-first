@@ -1,8 +1,10 @@
 const navLink = document.querySelectorAll('.nav-link');
 const toggleButton = document.querySelector('.toggle-button');
 const navbarLink = document.querySelector('.navbar-link');
+const head = document.querySelector("#head");
 function navSlide() {
   navbarLink.classList.toggle('active');
+  head.style.filter = 'blur(7px)';
 }
 function close() {
   navbarLink.classList.remove('active');
